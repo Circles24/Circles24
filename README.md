@@ -8,16 +8,17 @@ Hi I'm **Suraj Singh Rana**, I am interested about desiging and implementing too
 Here are some ideas to get you started:
 -->
 
-[![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://circles24.github.io/)
+[![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=portfolio)](https://circles24.github.io/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/suraj-rana-24circles/)](https://www.linkedin.com/in/suraj-rana-24circles//)
 
 :school: Grad from Army Institute of Technology, Pune, India.
+:mailbox: How to reach me: <a href="mailto:surajsinghrana7417@gmail.com">surajsinghrana7417@gmail.com</a>
+
 - 🌱 I’m passionate about backend engineering 
 - 👯 I’m looking to collaborate on open source projects in java, go, node, python
 - 💬 Ask me about backend engineering and DSA
 - 📫 How to reach me: surajsinghrana7417@gmail.com
 - ⚡ Fun fact: Engineer by the day, biker by the night.
-:mailbox: How to reach me: <a href="mailto:surajsinghrana7417@gmail.com">surajsinghrana7417@gmail.com</a>
 
 
 [![Top Languagess](https://github-readme-stats.vercel.app/api?username=Circles24&theme=algolia&show_icons=true)](https://github.com/Circles24)	
