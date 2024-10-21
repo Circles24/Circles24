@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![Top Languagess](https://github-readme-stats.vercel.app/api?username=Circles24&theme=algolia&show_icons=true)](https://github.com/Circles24)	
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Circles24&hide=html,scss,stylus,blade,jupyter%20notebook,css,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/Circles24)
+[![Suraj Singh Rana's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Circles24&hide=html,scss,stylus,blade,jupyter%20notebook,css,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/Circles24)
