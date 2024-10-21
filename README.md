@@ -8,9 +8,12 @@ Hi I'm **Suraj Singh Rana**, I am interested about desiging and implementing too
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently indulging in backend engineering 
+- 🌱 I’m passionate about backend engineering 
 - 👯 I’m looking to collaborate on open source projects in java, go, node, python
 - 💬 Ask me about backend engineering and DSA
 - 📫 How to reach me: surajsinghrana7417@gmail.com
 - ⚡ Fun fact: Engineer by the day, biker by the night.
 
+[![Top Languagess](https://github-readme-stats.vercel.app/api?username=Circles24&theme=algolia&show_icons=true)](https://github.com/Circles24)	
+
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Circles24&hide=html,scss,stylus,blade,jupyter%20notebook,css,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/Circles24)
